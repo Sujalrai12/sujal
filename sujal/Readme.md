@@ -1,4 +1,4 @@
-to push local file 
+To push local file follow the below steps : - 
 1> create a folder in local pc and create files also.
 2> now go to github and create a repo same as created in the local storage.
 3> copy the link from the respo and type command  git remote add origin <link>.
